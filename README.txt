@@ -1,2 +1,2 @@
-1. Сначала запускаем train_module.py
-2. Потом запускаем analyze.py
+1. At first you need to train a model train_module.py
+2. When you model is ready launch analyze.py
