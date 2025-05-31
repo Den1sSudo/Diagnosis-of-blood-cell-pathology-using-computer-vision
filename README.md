@@ -1,3 +1,5 @@
+# The purpose
+Manual counting and evaluation of blood cells under a microscope takes from 30 minutes to several hours per sample. In the context of mass research (for example, during pandemics) it takes a lot of effort. Staff fatigue leads to missing anomalies.  In regions with a shortage of qualified hematologists, diagnoses are often delayed, which worsens the prognosis of patients.
 # Project Modules
 The project consists of two modules: 1. Training module (train_module) and 2. Analysis and Interface module (analyze)
 1.Reads marked-up images
@@ -51,6 +53,7 @@ Model: Random Forest Classifier
 ![Image](https://github.com/user-attachments/assets/ba9fc422-e2d0-4b51-85b2-4378bed5f9de)
 
 # To run this project you need
-1. At first you need to train a model train_module.py
-2. For training, you can use your already prepared data, or use other people's data from open sources. For that project im use: https://aslan.md/blood-cell-detection-dataset/
-3. When you model is ready launch analyze.py
+1. For install all librares you can use file with requirements.txt
+2. At first you need to train a model train_module.py
+3. For training, you can use your already prepared data, or use other people's data from open sources. For that project im use: https://aslan.md/blood-cell-detection-dataset/
+4. When you model is ready launch analyze.py
