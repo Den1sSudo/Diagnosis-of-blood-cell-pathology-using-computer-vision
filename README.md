@@ -46,9 +46,9 @@ Model: Random Forest Classifier
 ![Image](https://github.com/user-attachments/assets/d85f6b35-0549-4452-add1-50f7983a67b5)
 
 ## Results
-![Image](https://github.com/user-attachments/assets/09cfe912-2c05-47ed-b6c9-7fe1bfc73913)
+![Image](https://github.com/user-attachments/assets/7a6aff34-7464-4e0f-a887-af6cf54c7025)
 ## Information about diagnosys 
-![img_7.png](img_7.png)
+![Image](https://github.com/user-attachments/assets/ba9fc422-e2d0-4b51-85b2-4378bed5f9de)
 
 # To run this project you need
 1. At first you need to train a model train_module.py
