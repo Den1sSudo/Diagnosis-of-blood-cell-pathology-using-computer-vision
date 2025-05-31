@@ -9,7 +9,7 @@ The project consists of two modules: 1. Training module (train_module) and 2. An
 - Classifies each cell
 - Displays the results to the user
 ## Extract features
-![img.png](img.png)
+![Image](https://github.com/user-attachments/assets/0389d583-a390-4576-a2d2-62c58bbe6c2b)
 
 ## Cells 
 Signs of cells:
@@ -19,8 +19,8 @@ Signs of cells:
 - brightness — brightness in gray
 - color_type — hue classification (HSV)
 
-## The color is determined by the HSV mask:
-![img_2.png](img_2.png)
+## The color by the HSV mask:
+![Image](https://github.com/user-attachments/assets/c4e10497-bf9d-4a46-9c70-158b83ba2943)
 
 ## All operations are performed using OpenCV:
 
@@ -31,7 +31,7 @@ Signs of cells:
 
 ## Model training and preservation
 Model: Random Forest Classifier
-![img_3.png](img_3.png)
+![Image](https://github.com/user-attachments/assets/724c2895-13cc-46b9-b132-078b0061169c)
 
 - n_estimators=100 → 100 decision trees
 - 3 classifiers are created:
@@ -40,14 +40,13 @@ Model: Random Forest Classifier
 - clf_ley: for leukocytes
 
 ## Saving models
-![img_4.png](img_4.png)
+![Image](https://github.com/user-attachments/assets/741e1863-7a8b-41ae-9d9d-a5b4740f97ad)
 
 ## User interface
-![img_5.png](img_5.png)
+![Image](https://github.com/user-attachments/assets/d85f6b35-0549-4452-add1-50f7983a67b5)
 
 ## Results
-![img_6.png](img_6.png)
-
+![Image](https://github.com/user-attachments/assets/09cfe912-2c05-47ed-b6c9-7fe1bfc73913)
 ## Information about diagnosys 
 ![img_7.png](img_7.png)
 
